@@ -40,7 +40,7 @@ Data Science Camp Test Tasks
 
 Для початку роботи потрібно створити нове віртуальне середовище та встановити бібліотеки з requirements.txt:
 
-    python -m venv venv_name
+    python3 -m venv venv_name
     source venv_name\bin\activate
     pip install -r requirements.txt
 
