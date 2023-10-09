@@ -155,4 +155,5 @@ Data Science Camp Test Tasks
     print(f"New probability of get H: {H}")
     # Повторюємо ці кроки коли випало 'T'
 
+UPD:This README.md is only for test task.
 
